@@ -3,14 +3,14 @@
 # Define color codes
 GREEN='\033[0;32m'
 RED='\033[0;31m'
-NC='\033[0m' # No Color
+NC='\033[0m' # No Color (RESET)
 
 clear
 echo -e "${GREEN}"
 echo ""
 echo "======================================================================="
 echo "|                                                                     |"
-echo "|     full-stack-nginx-wordpress-for-everyone-with-docker-compose     |"
+echo "|                     DOCKER WEBMASTER                                |"
 echo "|                      by Mmdrza.Com                                  |"
 echo "|                                                                     |"
 echo "======================================================================="
